@@ -1,4 +1,4 @@
-# 📝 Full-Stack Blogging Application (Twitter Clone)
+# 📝 Full-Stack Blogging Application
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-brightgreen.svg?style=flat-square&logo=spring)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg?style=flat-square&logo=openjdk)](https://www.oracle.com/java/)
